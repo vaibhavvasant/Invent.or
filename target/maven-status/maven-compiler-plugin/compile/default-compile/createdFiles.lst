@@ -1,0 +1,5 @@
+com/inventory/Database.class
+com/inventory/App.class
+com/inventory/CategoryService.class
+com/inventory/MainMenu.class
+com/inventory/ProductService.class
